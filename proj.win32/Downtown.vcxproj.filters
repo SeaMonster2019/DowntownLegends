@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Class">
+      <UniqueIdentifier>{117b585d-0002-457d-a128-f8d8b4923ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Class\json">
+      <UniqueIdentifier>{8bf7e2f0-667e-43d8-90ca-5f73d60e9c2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Class\scene">
+      <UniqueIdentifier>{492b3a4f-46ef-496b-8cc9-2d30b0ae39a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Class\base">
+      <UniqueIdentifier>{5627b019-f781-4e52-9b6c-0cce0f0af536}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\json\jsonclass.cpp">
+      <Filter>src\Class\json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\CBattleScene.cpp">
+      <Filter>src\Class\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene\CMenuScene.cpp">
+      <Filter>src\Class\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CEffects.cpp">
+      <Filter>src\Class\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CMyUi.cpp">
+      <Filter>src\Class\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CRole.cpp">
+      <Filter>src\Class\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyTool.cpp">
+      <Filter>src\Class\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\json\CMapTools.cpp">
+      <Filter>src\Class\base</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\autolink.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\config.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\features.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\forwards.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\json.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\jsonclass.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\reader.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\value.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\writer.h">
+      <Filter>src\Class\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\CBattleScene.h">
+      <Filter>src\Class\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene\CMenuScene.h">
+      <Filter>src\Class\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CEffects.h">
+      <Filter>src\Class\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CMyUi.h">
+      <Filter>src\Class\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CRole.h">
+      <Filter>src\Class\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyTool.h">
+      <Filter>src\Class\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\json\CMapTools.h">
+      <Filter>src\Class\base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

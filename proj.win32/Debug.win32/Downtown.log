@@ -1,0 +1,38 @@
+﻿  CRole.cpp
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CRole.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\MyTool.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\json\CMaptools.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\json\CMaptools.h(77,41): warning C4227: 使用了记时错误: 忽略引用上的限定符
+F:\my_program\cocos_programe\Downtown\Classes\Scene\CBattleScene.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CEffects.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CMyUi.h(32,21): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CMyUi.h(33,21): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(47,23): warning C4996: 'cocos2d::SpriteFrameCache::sharedSpriteFrameCache': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(145,23): warning C4996: 'cocos2d::SpriteFrameCache::sharedSpriteFrameCache': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(161,82): warning C4996: 'cocos2d::SpriteFrameCache::spriteFrameByName': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(176,9): warning C4996: 'cocos2d::Sprite::setDisplayFrame': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(207,9): warning C4996: 'cocos2d::Node::unscheduleAllSelectors': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(209,9): warning C4996: 'cocos2d::Sprite::setDisplayFrame': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(594,26): warning C4018: “>=”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(640,26): warning C4018: “>=”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(581,13): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(607,17): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(608,17): warning C4996: 'cocos2d::Sprite::setDisplayFrame': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(624,13): warning C4996: 'cocos2d::Sprite::setDisplayFrame': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(633,13): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(798,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(936,28): warning C4018: “<”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(993,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1051,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1111,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1174,30): warning C4018: “<”: 有符号/无符号不匹配
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1380,31): warning C4996: 'cocos2d::Node::unscheduleAllSelectors': 被声明为已否决
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1604,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1803,55): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(2337,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(3024,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\my_program\cocos_programe\Downtown\Classes\CRole.cpp(1641): warning C4715: “CRole::RoleJumpStateJudge”: 不是所有的控件路径都返回值
+  Downtown.vcxproj -> F:\my_program\cocos_programe\Downtown\proj.win32\Debug.win32\Downtown.exe
+  正在执行自定义生成步骤
+  复制了 0 个文件

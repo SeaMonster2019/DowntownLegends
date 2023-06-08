@@ -1,0 +1,12 @@
+#Ignored templates from other platforms
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win32/.vs
+
+#The library file has also been deleted
+cocos2d/
+
+proj.win32/**/*.obj
+proj.win32/**/*.pdb
+proj.win32/**/*.ilk
