@@ -4,6 +4,6 @@ This is a Cocos2dx engine game. I am using materials from the "Downtown" series 
 I'm sorry, I don't have enough time and ability to complete this project. It's just a semi-finished product
 
 
-#Usage
+# Usage
 After you clone this project, you can use VS to open the "/proj. win32/Downtown. sln" VS project file
 
